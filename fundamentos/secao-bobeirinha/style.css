@@ -1,0 +1,18 @@
+.pato{
+    max-width: 450px;
+    
+}
+.agente1{
+    max-width: 150px;
+}
+.agente2{
+    max-width: 150px;
+}
+.body{
+    background-image: url(ela.jpeg);
+    background-size: 150px;
+    font-style: italic;
+    
+}
+
+
